@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 中医暗面</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://www.drai.top/categories/</link>
     <description>Recent content in Categories on 中医暗面</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 20 Nov 2024 09:08:27 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.drai.top/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT技术</title>
-      <link>http://localhost:1313/categories/it%E6%8A%80%E6%9C%AF/</link>
+      <link>https://www.drai.top/categories/it%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
-      <guid>http://localhost:1313/categories/it%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://www.drai.top/categories/it%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
     </item>
   </channel>

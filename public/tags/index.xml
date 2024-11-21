@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 中医暗面</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.drai.top/tags/</link>
     <description>Recent content in Tags on 中医暗面</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 20 Nov 2024 09:08:27 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.drai.top/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cloudflare</title>
-      <link>http://localhost:1313/tags/cloudflare/</link>
+      <link>https://www.drai.top/tags/cloudflare/</link>
       <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
-      <guid>http://localhost:1313/tags/cloudflare/</guid>
+      <guid>https://www.drai.top/tags/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://www.drai.top/tags/github/</link>
       <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://www.drai.top/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://www.drai.top/tags/hugo/</link>
       <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://www.drai.top/tags/hugo/</guid>
       <description></description>
     </item>
   </channel>
