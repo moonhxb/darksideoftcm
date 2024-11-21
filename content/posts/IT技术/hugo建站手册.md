@@ -16,7 +16,7 @@ tags = ['hugo','github','cloudflare']
 
 # 安装手册
 
- 版本  0.129.0 extends，从hugo release 下载安装
+ 版本  0.129.0 extends，从hugo release   下载安装
 
 好的，下面是使用 Cloudflare Pages + GitHub + Hugo 搭建个人博客的详细步骤。这个过程将涵盖从环境准备到最终部署的所有步骤。
 
