@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pttest2s on 中医之暗面</title>
+    <link>http://localhost:1313/pttest2/</link>
+    <description>Recent content in Pttest2s on 中医之暗面</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 20 Nov 2024 09:08:27 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/pttest2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中医理论文章1</title>
+      <link>http://localhost:1313/pttest2/%E4%B8%AD%E5%8C%BB%E7%90%86%E8%AE%BA%E6%96%87%E7%AB%A02/</link>
+      <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
+      <guid>http://localhost:1313/pttest2/%E4%B8%AD%E5%8C%BB%E7%90%86%E8%AE%BA%E6%96%87%E7%AB%A02/</guid>
+      <description>文章内容 我的第一篇文章</description>
+    </item>
+  </channel>
+</rss>

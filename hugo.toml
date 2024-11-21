@@ -1,4 +1,39 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'PaperMod'
+baseURL = 'https://www.drai.top/'
+languageCode = 'zh-cn'
+title = '中医暗面'
+theme = "ananke"  
+
+# SEO 优化  
+description = "借助科技，转换思路，从另一个视角解读中医，深入挖掘其内涵，为民众服务，惠及大众"  
+keywords = ["中医暗面", "中医", "人工智能"]  
+
+
+# 目录和标签页面  
+[params]  
+  enableTags = true  
+  enableCategories = true  
+  read_more_copy = "查看详细"
+
+# 菜单配置  
+[menu]  
+
+  [[menu.main]]  
+    name = "首页"  
+    url = "/"  
+    weight = 1  
+
+
+  [[menu.main]]  
+    name = "目录"  
+    url = "/categories/"  
+    weight = 3  
+
+  [[menu.main]]  
+    name = "标签"  
+    url = "/tags/"  
+    weight = 4  
+
+  [[menu.main]]  
+    name = "关于"  
+    url = "/about/"  
+    weight = 5  

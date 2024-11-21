@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on 中医暗面</title>
+    <link>http://localhost:1313/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on 中医暗面</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 20 Nov 2024 09:08:27 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>破土动工</title>
+      <link>http://localhost:1313/posts/it%E6%8A%80%E6%9C%AF/hugo%E5%BB%BA%E7%AB%99%E6%89%8B%E5%86%8C/</link>
+      <pubDate>Wed, 20 Nov 2024 09:08:27 +0800</pubDate>
+      <guid>http://localhost:1313/posts/it%E6%8A%80%E6%9C%AF/hugo%E5%BB%BA%E7%AB%99%E6%89%8B%E5%86%8C/</guid>
+      <description>欢迎光临！ 记录一下建站时间：2024年11月20日&#xA;安装手册 版本 0.129.0 extends，从hugo release 下载安装&#xA;好的，下面是使用 Cloudflare Pages + GitHub + Hugo 搭建个人博客的详细步骤。这个过程将涵盖从环境准备到最终部署的所有步骤。&#xA;步骤 1: 准备工作 1. 注册必要的账号 GitHub: 访问 github.com 注册一个账号。 Cloudflare: 访问 cloudflare.com 注册一个账号。 2. 安装必要的软件 确保你的计算机上安装了以下软件：&#xA;Git: 用于版本控制。 Hugo: 用于生成静态网站。 安装 Hugo Windows: winget install Hugo.Hugo.Extended macOS: brew install hugo Linux: sudo apt install hugo 步骤 2: 创建 Hugo 博客 1. 创建新的 Hugo 站点 在命令行中运行以下命令：&#xA;hugo new site my-blog cd my-blog 2. 安装主题 选择一个你喜欢的主题，例如 PaperMod：</description>
+    </item>
+  </channel>
+</rss>
