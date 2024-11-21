@@ -1,7 +1,6 @@
 +++
 title = '破土动工'
 date = 2024-11-20T09:08:27+08:00
-draft = true
 categories = ['IT技术']
 tags = ['hugo','github','cloudflare']
 
